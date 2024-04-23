@@ -2,7 +2,14 @@
    font-size: 30px;
    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    text-align: center;
-   color: azure;
+   color: #f0ffff;
+   height: 80PX;
+   width: 800px;
+   background-color: #000000;
+   float : center;
+   margin-top: 10px;
+   margin-left: 350px;
+   box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.2), 0 15px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 button {
